@@ -924,6 +924,10 @@
    "kotobagaki": ""
   }
  ],
+ "translation": {
+  "count": 14,
+  "note": "AI による現代語訳"
+ },
  "catalog": {
   "work_id": "zoku-gunsho-bunki2-kasuga-horaku-shiika",
   "work": "文亀二年春日社法楽詩歌",
@@ -936,7 +940,7 @@
   "blocks": 14,
   "chars": 3662,
   "poems": 49,
-  "yaku": 0,
+  "yaku": 14,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T23:47:46+09:00"
